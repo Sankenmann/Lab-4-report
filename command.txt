@@ -1,0 +1,1 @@
+Move-DatabasePath 'DB1' -EdbFilePath 'C:\DDrive\Databases\NEW\DB1\DB1.edb' -LogFolderPath 'C:\EDrive\Logs\NEW\DB1'
